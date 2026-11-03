@@ -1,0 +1,9 @@
+profiles/
+data/
+cache/
+dist/
+build/
+__pycache__/
+*.log
+*.pem
+config.json
